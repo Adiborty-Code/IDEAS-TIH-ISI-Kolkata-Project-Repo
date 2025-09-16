@@ -64,7 +64,7 @@ A short demo video of the project workflow and results is included in the **Depe
 ## Author  
 
 Developed as part of an academic project for **IDEAS-TIH ISI Kolkata - Foundation Autumn Internship** on **Data Science**.  
-- 📧 Contact: *adityachakraborty153@gmail.com*  
-- 🔗 GitHub: *https://github.com/Adiborty-Code/*  
+- Contact: *adityachakraborty153@gmail.com*  
+- GitHub: *https://github.com/Adiborty-Code/*  
 
 ---
