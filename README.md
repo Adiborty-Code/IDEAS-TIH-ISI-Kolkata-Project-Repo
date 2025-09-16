@@ -1,11 +1,11 @@
-# 📰 Fake News Detection and Evaluation with Confusion Matrix 
+# Fake News Detection and Evaluation with Confusion Matrix 
 
 This repository contains a complete project on **Fake News Detection** using machine learning algorithms.  
 The goal is to classify news articles as **real or fake** using supervised learning methods, and evaluate the results with standard metrics and a confusion matrix.  
 
 ---
 
-## ⚙️ Technologies & Libraries Used  
+## Technologies & Libraries Used  
 
 - **Python 3**  
 - **Pandas, NumPy** → Data preprocessing & cleaning  
@@ -16,7 +16,7 @@ The goal is to classify news articles as **real or fake** using supervised learn
 
 ---
 
-## 📊 Workflow  
+## Workflow  
 
 1. **Data Collection**  
    - Real news scraped from [Reuters.com](https://www.reuters.com/)  
@@ -47,13 +47,13 @@ The goal is to classify news articles as **real or fake** using supervised learn
 
 ---
 
-## 📽 Demonstration  
+## Demonstration  
 
 A short demo video of the project workflow and results is included in the **Dependencies** folder.  
 
 ---
 
-## 🔮 Future Work  
+## Future Work  
 
 - Experiment with **boosting algorithms** (AdaBoost, XGBoost, etc.) to improve accuracy.  
 - Use **TF-IDF vectorizer** and compare with Word2Vec embeddings.  
@@ -61,7 +61,7 @@ A short demo video of the project workflow and results is included in the **Depe
 
 ---
 
-## 👨‍💻 Author  
+## Author  
 
 Developed as part of an academic project for **IDEAS-TIH ISI Kolkata - Foundation Autumn Internship** on **Data Science**.  
 - 📧 Contact: *adityachakraborty153@gmail.com*  
